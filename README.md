@@ -2,7 +2,7 @@
 This code cretes a basic calculator which can perform math operations and display the resuls.
 This uses Tkinter module to open the window in which all the buttons are displayed.
 The buttons are clickable and can be used to type.
->Here is one example of simple operation being performed by the Calculator
+**Here is one example of simple operation being performed by the Calculator**
 
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/94477450/147417778-09f9e806-2019-41b6-acdd-fb494df218ce.png">
